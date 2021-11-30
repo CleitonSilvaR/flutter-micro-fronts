@@ -1,0 +1,15 @@
+[submodule "flutter-micro-front-base-app"]
+	path = flutter-micro-front-base-app
+	url = https://github.com/CleitonSilvaR/flutter-micro-front-base-app.git
+[submodule "flutter-micro-front-micro-core"]
+	path = flutter-micro-front-micro-core
+	url = https://github.com/CleitonSilvaR/flutter-micro-front-micro-core.git
+[submodule "flutter-micro-front-micro-app-login"]
+	path = flutter-micro-front-micro-app-login
+	url = https://github.com/CleitonSilvaR/flutter-micro-front-micro-app-login.git
+[submodule "flutter-micro-front-micro-app-home"]
+	path = flutter-micro-front-micro-app-home
+	url = https://github.com/CleitonSilvaR/flutter-micro-front-micro-app-home.git
+[submodule "flutter-micro-front-micro-commons-desing-system"]
+	path = flutter-micro-front-micro-commons-desing-system
+	url = https://github.com/CleitonSilvaR/flutter-micro-front-micro-commons-desing-system.git
